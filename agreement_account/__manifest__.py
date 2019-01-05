@@ -5,7 +5,7 @@
 {
     'name': u'Agreement (Account)',
     'summary': "Adds an agreement object linked to an invoice",
-    'version': '10.0.1.0.0',
+    'version': '12.0.1.0.0',
     'category': 'Contract',
     'author': "Akretion,Odoo Community Association (OCA)",
     'website': 'http://www.akretion.com',
